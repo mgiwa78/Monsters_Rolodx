@@ -1,6 +1,5 @@
 import "./search-box.styles.css";
 
-import { ChangeEventHandler } from "react";
 import { ChangeEvent } from "react";
 
 // typing object using interface
